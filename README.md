@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning Web Development  
 - 👯 I'm looking to collaborate with other students
-- 😻 I'm enthusiastic about acquiring new information of Technology
+- 😻 I'm enthusiastic about acquiring new information about Technology
 - ⚡ Hobbies: In my free time a play games, see movies.  
 - 🥅 2022 Goals: Learn more about Databases 
 
