@@ -3,7 +3,7 @@
 
 ## I'm a Student, Developer and Human 🤣
 
-- 🌱 I’m currently learning Web Development  
+- 🌱 I’m currently learning React JS  
 - 👯 I'm looking to collaborate with other students
 - 😻 I'm enthusiastic about acquiring new information about Technology
 - ⚡ Hobbies: In my free time a play games, see movies.  
