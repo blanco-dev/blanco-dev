@@ -7,7 +7,7 @@
 - 👯 I'm looking to collaborate with other students
 - 😻 I'm enthusiastic about acquiring new information about Technology
 - ⚡ Hobbies: In my free time a play games, see movies.  
-- 🥅 2022 Goals: Learn more about Databases 
+- 🥅 2023 Goals: Learn more about Databases 
 
 ### Connect with me:
 
