@@ -4,9 +4,9 @@
 ## I'm a Student, Developer and Human 🤣
 
 - 🌱 I’m currently learning React JS  
-- 👯 I'm looking to collaborate with other students
+- 👯 I seek to collaborate with other students, to build our own projects
 - 😻 I'm enthusiastic about acquiring new information about Technology
-- ⚡ Hobbies: In my free time a play games, see movies.  
+- ⚡ Hobbies: In my free time I play games and see movies.  
 - 🥅 2023 Goals: Learn more about Databases 
 
 ### Connect with me:
