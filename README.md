@@ -1,7 +1,7 @@
 # Hello!! I'm Matias Blanco 👋 
 
 
-## I'm a Student, Developer and Human 🤣
+## I'm a Student of University and Developer
 
 - 🌱 I’m currently learning C  
 - 👯 I seek to collaborate with other students, to build our own projects
