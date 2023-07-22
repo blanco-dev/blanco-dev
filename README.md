@@ -1,9 +1,9 @@
 # Hello!! I'm Matias Blanco 👋 
 
 
-## I'm a Student of University and Developer
+## I'm a Student and Developer
 
-- 🌱 I’m currently learning C  
+- 🌱 I’m currently learning C in University
 - 👯 I seek to collaborate with other students, to build our own projects
 - 😻 I'm enthusiastic about acquiring new information about Technology
 - ⚡ Hobbies: In my free time I play games and see movies.  
