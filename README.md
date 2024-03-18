@@ -3,11 +3,11 @@
 
 ## I'm a Student and Developer
 
-- 🌱 I’m currently learning C in University
+- 🌱 I’m currently learning Java in University
 - 👯 I seek to collaborate with other students, to build our own projects
 - 😻 I'm enthusiastic about acquiring new information about Technology
 - ⚡ Hobbies: In my free time I play games and see movies.  
-- 🥅 2023 Goals: Learn more about C  
+- 🥅 2024 Goals: Learn more about Java  
 
 ### Connect with me:
 
