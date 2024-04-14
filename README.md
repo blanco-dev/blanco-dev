@@ -3,7 +3,7 @@
 
 ## I'm a Student and Developer
 
-- 🌱 I’m currently learning Java in University
+- 🌱 I’m currently learning Java at University
 - 👯 I seek to collaborate with other students, to build our own projects
 - 😻 I'm enthusiastic about acquiring new information about Technology
 - ⚡ Hobbies: In my free time I play games and see movies.  
